@@ -6,25 +6,20 @@
 
 <!-- code_chunk_output -->
 
-- [Node.js(express)の使い方　その①](#nodejsexpressの使い方その)
-  - [目次 {ignore=true}](#目次-ignoretrue)
-  - [準備](#準備)
-    - [Nodejs用のプロジェクトを作成](#nodejs用のプロジェクトを作成)
-  - [HTTPサーバーの作成](#httpサーバーの作成)
-    - [expressのインストール](#expressのインストール)
-    - [server.jsの作成](#serverjsの作成)
-    - [実行・終了](#実行終了)
-      - [実行](#実行)
-      - [終了](#終了)
-  - [expressの各種機能](#expressの各種機能)
-    - [ファイルの返却](#ファイルの返却)
-    - [パラメーター](#パラメーター)
-    - [クエリの受け取り](#クエリの受け取り)
-      - [GET](#get)
-      - [post](#post)
-    - [JSONの返却](#jsonの返却)
+- [準備](#準備)
+  - [Nodejs用のプロジェクトを作成](#nodejs用のプロジェクトを作成)
+- [HTTPサーバーの作成](#httpサーバーの作成)
+  - [expressのインストール](#expressのインストール)
+  - [server.jsの作成](#serverjsの作成)
+  - [実行・終了](#実行終了)
+- [expressの各種機能](#expressの各種機能)
+  - [ファイルの返却](#ファイルの返却)
+  - [パラメーター](#パラメーター)
+  - [クエリの受け取り](#クエリの受け取り)
+  - [JSONの返却](#jsonの返却)
 
 <!-- /code_chunk_output -->
+
 
 ## 準備
 
